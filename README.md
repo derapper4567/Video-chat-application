@@ -1,4 +1,5 @@
 Video Chat Application
+
 Welcome to the Video Chat Application! This application enables users to connect and communicate through real-time video and audio streaming using Django, WebSocket, Redis, and WebRTC. Perfect for personal chats, business meetings, or virtual gatherings.
 
 
@@ -43,8 +44,7 @@ cd video-chat-app
 
 Set up a virtual environment
 python -m venv venv
-source venv/bin/activate  
-# On Windows use `venv\Scripts\activate`
+source venv/bin/activate
 
 
 Install dependenccies
